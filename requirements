@@ -1,5 +1,5 @@
 streamlit
 pandas
-matplotlib
+bmatplotlib==3.5.3
 seaborn
 openpyxl  # Required for reading Excel files
